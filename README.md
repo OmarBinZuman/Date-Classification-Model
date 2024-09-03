@@ -13,3 +13,7 @@ The dataset consists of images from nine different types of dates, with each typ
 We chose Convolutional Neural Networks (CNN) due to their proven effectiveness in handling image data. Initially, we designed our own architecture, but this yielded a model with an accuracy of around 85%, which we found to be somewhat average.
 
 To improve performance, we turned to a pre-trained model, specifically one based on ImageNet, and fine-tuned it on our dataset. This approach significantly boosted our results, achieving an accuracy of 94% and an F1 score of 94%.
+
+
+
+NOTE: I CANNOT SHARE THE Dataset
